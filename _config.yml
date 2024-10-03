@@ -21,7 +21,7 @@ repository               : "Pituohai/wangchunzhuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chunzhuo_winter_24.png"
   name             : "Chunzhuo WANG"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate in AI4Health"
