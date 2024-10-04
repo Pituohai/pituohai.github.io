@@ -12,11 +12,7 @@ I am curerntly a Postdoc Researcher from eMedia Research Lab, ESAT-STADIUS, KU L
 My research interests includes AI4Health, Sensor Fusion, Time Series Data Processing, FMCW Radar. 
 
 
-permalink: /
-title: "News"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+News
+======
+1. Our paper titled 'Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments' has been selected as the cover article in IEEE Journal of Biomedical and Health Informatics (Volume: 28, Issue: 10, October 2024)
 
