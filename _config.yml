@@ -9,7 +9,7 @@
 # Basic Site Settings
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chunzhuo Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Chunzhuo Wang"
 description              : &description "personal description"
