@@ -1,4 +1,4 @@
-<div style="max-width: 1000px; margin: auto;">
+
 
 ---
 permalink: /
@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="max-width: 1000px; margin: auto;">
 
 I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven. I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
