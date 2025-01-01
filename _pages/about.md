@@ -27,7 +27,7 @@ Experience
 - **2024.09 - 2024.11**: Postdoctoral Researcher Assistant, KU Leuven, Belgium
 - **2023.03 - 2023.05**: Visiting Researcher, Wageningen University & Research, The Netherlands
 - **2020.09 - 2024.09**: PhD Researcher, IMEC, Belgium
-- **2019.10 - 2020.09**: Master Thesis Intern, Neuro-Electronics Research Flanders (NERF), Belgium
+- **2019.10 - 2020.09**: Master Thesis Intern, Neuro-Electronics Research Flanders (NERF), Belgium \
 - **2018.09 - 2019.02**: Exchange Student, Universitat Politècnica de València, Spain
   
 Education
@@ -35,4 +35,4 @@ Education
 - **2020.09 - 2024.09**: PhD, KU Leuven, Belgium
 - **2019.09 - 2020.09**: MSc, KU Leuven, Belgium
 - **2017.09 - 2019.07**: BSc, KU Leuven, Belgium
-- **2014.09 - 2019.07**: BSc, University of Electronic Science and Technology of China (UESTC), China
+- **2014.09 - 2019.07**: BSc, University of Electronic Science and Technology of China (UESTC), China \
