@@ -11,7 +11,7 @@ I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://ii
 
 My research interests include AI for Health (AI4Health), Sensor Fusion, Time Series Data Processing, and FMCW Radar. 
 
-News
+🔥News
 ======
 - **2024.12**: Invited to attend the International Young Scholar Forum in BUPT, Beijing, China.
 - **2024.11**: Invited to give a long talk at the 26th Nutrition and Health Conference, Brussels, Belgium.
