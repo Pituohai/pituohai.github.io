@@ -13,7 +13,7 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 
 🔥News
 ======
-- **2025.02**: Our paper, *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, has been awarded **1st Place Best Paper Award** by IEEE-EMBS (IEEE Engineering in Medicine and Biology Society) Benelux Chapter in 2023-2024.
+- **2025.02**: Our paper, *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, has been awarded **1st Place Best Paper Award** in 2023-2024 by IEEE-EMBS (IEEE Engineering in Medicine and Biology Society) Benelux Chapter.
 - **2025.01**: Invited to serve as a referee for the IEEE EMBC 2025, to be held in Copenhagen, Denmark.
 - **2024.12**: Invited to attend the International Young Scholar Forum at BUPT in Beijing, China.
 - **2024.11**: Delivered a long talk at the 26th Nutrition and Health Conference in Brussels, Belgium.
@@ -32,6 +32,13 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 - **2020.09 - 2024.09**: PhD Researcher, IMEC, Belgium
 - **2019.10 - 2020.09**: Master Thesis Intern, Neuro-Electronics Research Flanders (NERF), Belgium
 - **2018.09 - 2019.02**: Exchange Student, Universitat Politècnica de València, Spain
+
+🎖️Awards & Grants
+======
+- **IEEE-EMBS Benelux Chapter 1st Place Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
+- **IEEE IMBioC PhD Student Initiative Awardee**: Awarded by IEEE International Microwave Biomedical Conference (IEEE IMBioC) Committee in 2023.
+- **FWO Short-Term Visiting Fund**: Received a grant from the Research Foundation Flanders for a short study visit, 2023.
+- **KU Leuven Full Scholarship**: Received a full scholarship from KU Leuven from 2017-2020 for Bachelor (2 years) and Master Study (1 year).
   
 🎓Education
 ======
