@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 
 🔥News
 ======
+- **2025.02**: Our paper, *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, has been awarded **1st Place Best Paper Award** by IEEE-EMBS (IEEE Engineering in Medicine and Biology Society) Benelux Chapter in 2023-2024.
 - **2025.01**: Invited to serve as a referee for the IEEE EMBC 2025, to be held in Copenhagen, Denmark.
 - **2024.12**: Invited to attend the International Young Scholar Forum at BUPT in Beijing, China.
 - **2024.11**: Delivered a long talk at the 26th Nutrition and Health Conference in Brussels, Belgium.
