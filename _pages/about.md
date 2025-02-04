@@ -35,7 +35,7 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 
 🎖️Awards & Grants
 ======
-- **IEEE-EMBS Benelux Chapter 1st Place Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
+- **IEEE-EMBS Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
 - **IEEE IMBioC PhD Student Initiative Awardee**: Awarded by IEEE International Microwave Biomedical Conference (IEEE IMBioC) Committee in 2023.
 - **FWO Short-Term Visiting Fund**: Received a grant from the Research Foundation Flanders for a short study visit, 2023.
 - **KU Leuven Full Scholarship**: Received a full scholarship from KU Leuven from 2017-2020 for Bachelor (2 years) and Master Study (1 year).
