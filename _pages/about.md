@@ -35,6 +35,7 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 
 🎖️Awards & Grants
 ======
+- **ICDAM 2025 Travel Bursary Awardee**: Awarded by International Conference on Diet and Activity Methods (ICDAM) Committee in 2025.
 - **IEEE-EMBS Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
 - **IEEE IMBioC PhD Student Initiative Awardee**: Awarded by IEEE International Microwave Biomedical Conference (IEEE IMBioC) Committee in 2023.
 - **FWO Short-Term Visiting Fund**: Received a grant from the Research Foundation Flanders for a short study visit, 2023.
