@@ -53,8 +53,10 @@ My research interests include AI for Health (AI4Health), Sensor Fusion, Time Ser
 - **Conference Reviewer**  
   IEEE BHI 2022; IEEE EMBC 2024,2025
 - **Journal Reviewer**  
-  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Journal of Supercomputing
-- **Master Thesis Co-superviser**  
+  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Journal of Supercomputing; International Journal of Data Science and Analytics
+- **PhD Supervision & Assessment**
+  KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
+- **Master Thesis Co-supervisor**  
   KU Leuven: Supervised 13 master students majoring in Electronic Engineering, Electromechanical Engineering, and Artificial Intelligence, with 7 graduating with Cum Laude distinction 
 - **Teaching Assistance**  
   KU Leuven: Computational Thinking (2020); Statistics and Data Management (2021, 2022, 2023); Machine Learning (2023)
