@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven. I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
-My research interests include AI for Health (AI4Health), Sensor Fusion, Time Series Data Processing, and FMCW Radar. 
+My research interests include AI for Health (AI4Health), Automated Food Intake Activity Monitoring, Sensor Fusion, Time Series Data Processing, and FMCW Radar. 
 
 🔥News
 ======
