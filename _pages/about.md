@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven. I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
+I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven, working with my PhD supervisor [Prof. Bart Vanrumste](https://www.kuleuven.be/wieiswie/en/person/00045098). I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
 My research interests include AI for Health (AI4Health), Automated Food Intake Activity Monitoring, Sensor Fusion, Time Series Data Processing, and FMCW Radar. 
 
@@ -20,7 +20,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 - **2025.01**: Invited to serve as a referee for the IEEE EMBC 2025, to be held in Copenhagen, Denmark.
 - **2024.12**: Invited to attend the International Young Scholar Forum at BUPT in Beijing, China.
 - **2024.11**: Delivered an invited long talk at the 26th Nutrition and Health Conference in Brussels, Belgium.
-- **2024.10**: Our paper, titled *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, was selected as the cover article for the *IEEE Journal of Biomedical and Health Informatics* (Volume: 28, Issue: 10, October 2024).
+- **2024.10**: Our paper, titled *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, was selected as the **cover article** for the *IEEE Journal of Biomedical and Health Informatics* (Volume: 28, Issue: 10, October 2024).
 - **2024.09**: Our paper, titled *"Unobtrusive Nighttime Movement Monitoring to Support Nursing Home Continence Care: Machine Learning Study"*, was accepted for publication in *JMIR Nursing*.
 - **2024.08**: Our paper, titled *"Detection of Eating Gestures in Older Persons Using IMU Sensors with Multi-Stage Temporal Convolutional Network"*, was accepted for publication in the *IEEE Sensors Journal*.
 - **2024.07**: Our paper, titled *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, was accepted for publication in the *IEEE Journal of Biomedical and Health Informatics*.
