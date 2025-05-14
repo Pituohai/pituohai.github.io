@@ -14,7 +14,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 🔥News
 ======
 - **2025.05**: Invited to give a talk at [SPARC Radar Group](https://www.uni.lu/snt-en/research-groups/sparc/) Seminar (hosted by [Prof. Bhavani Shankar](https://scholar.google.lu/citations?user=JXx5O8kAAAAJ&hl=en)), from University of Luxembourg, with the topic *"Sensing Bites: Contactless Food Intake Activity Monitoring with Radar and AI"*.
-- **2025.05**: Invited as a guest lecturer at the University of Bonn, Germany, for the upcoming summer school *"Digital Innovation in Nutritional Epidemiology"*, scheduled for August 2025.
+- **2025.05**: Invited as a guest lecturer at the University of Bonn, Germany, for the upcoming summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), scheduled for August 2025.
 - **2025.04**: Successfully co-organized the workshop *"Novel Subjective and Objective Methods to Monitor Food Intake"* at the International Conference on Diet and Activity Methods (ICDAM 2025) in Toronto, Canada.
 - **2025.02**: Our paper, *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, has been awarded **Best Paper Award** in 2023-2024 by IEEE-EMBS (IEEE Engineering in Medicine and Biology Society) Benelux Chapter.
 - **2025.01**: Invited to serve as a referee for the IEEE EMBC 2025, to be held in Copenhagen, Denmark.
