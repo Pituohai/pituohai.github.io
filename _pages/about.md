@@ -28,8 +28,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 💼Experience
 ======
-- **2024.11 - Current**: Postdoctoral Researcher Associate, KU Leuven, Belgium
-- **2024.09 - 2024.11**: Postdoctoral Researcher Assistant, KU Leuven, Belgium
+- **2024.09 - Current**: Postdoctoral Researcher Associate, KU Leuven, Belgium
 - **2023.03 - 2023.05**: Visiting Researcher, Wageningen University & Research, The Netherlands
 - **2020.09 - 2024.09**: PhD Researcher, IMEC, Belgium
 - **2019.10 - 2020.09**: Master Thesis Intern, Neuro-Electronics Research Flanders (NERF), Belgium
@@ -56,7 +55,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 - **Conference Reviewer**  
   IEEE BHI 2022; IEEE EMBC 2024,2025
 - **Journal Reviewer**  
-  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Journal of Supercomputing; International Journal of Data Science and Analytics
+  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Scientific Reports; Journal of Supercomputing; International Journal of Data Science and Analytics
 - **PhD Supervision & Assessment**
   KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
 - **Master Thesis Co-supervisor**  
