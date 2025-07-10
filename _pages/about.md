@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2025.07**: Will give an oral presentation at [IEEE EMBC 2025](https://embc.embs.org/2025) to be held in Copenhagen, Denmark, with the topic *"Skeleton-Based Intake Gesture Detection With Spatial-Temporal Graph Convolutional Networks"*.
 - **2025.05**: Invited to give a talk at [SPARC Radar Group](https://www.uni.lu/snt-en/research-groups/sparc/) Seminar (hosted by [Prof. Bhavani Shankar](https://scholar.google.lu/citations?user=JXx5O8kAAAAJ&hl=en)), from University of Luxembourg, with the topic *"Sensing Bites: Contactless Food Intake Activity Monitoring with Radar and AI"*.
 - **2025.05**: Invited as a guest lecturer at the University of Bonn, Germany, for the upcoming summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), scheduled for August 2025.
 - **2025.04**: Successfully co-organized the workshop *"Novel Subjective and Objective Methods to Monitor Food Intake"* at the International Conference on Diet and Activity Methods (ICDAM 2025) in Toronto, Canada.
@@ -36,6 +37,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🎖️Awards & Grants
 ======
+- **FWO Long-term Visit Grant**: Awarded a 3-month grant by the Research Foundation Flanders (FWO) to support an extended research stay abroad.
 - **FWO Travel Grant**: Received a grant from the Research Foundation Flanders (FWO) for attending conference IEEE EMBC 2025.
 - **ICDAM 2025 Travel Bursary Awardee**: Awarded by International Conference on Diet and Activity Methods (ICDAM) Committee in 2025.
 - **IEEE-EMBS Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
@@ -45,17 +47,17 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
   
 🎓Education
 ======
-- **2020.09 - 2024.09**: PhD, KU Leuven, Belgium
-- **2019.09 - 2020.09**: MSc, KU Leuven, Belgium
-- **2017.09 - 2019.07**: BSc, KU Leuven, Belgium
+- **2020.09 - 2024.09**: PhD, KU Leuven, Belgium 
+- **2019.09 - 2020.09**: MSc, KU Leuven, Belgium (Graduated with honors)
+- **2017.09 - 2019.07**: BSc, KU Leuven, Belgium (Graduated with honors)
 - **2014.09 - 2019.07**: BSc, University of Electronic Science and Technology of China (UESTC), China
 
 📚Academic Services
 ======
 - **Conference Reviewer**  
-  IEEE BHI 2022; IEEE EMBC 2024,2025
+  IEEE BHI 2022,2025; IEEE EMBC 2024,2025
 - **Journal Reviewer**  
-  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Scientific Reports; Journal of Supercomputing; International Journal of Data Science and Analytics
+  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Scientific Reports; Journal of Supercomputing; International Journal of Data Science and Analytics; International journal of human-computer interaction
 - **PhD Supervision & Assessment**
   KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
 - **Master Thesis Co-supervisor**  
