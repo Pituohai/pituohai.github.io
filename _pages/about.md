@@ -57,17 +57,17 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 - **Conference Reviewer**  
   IEEE BHI 2022,2025; IEEE EMBC 2024,2025
 - **Journal Reviewer**  
-  IEEE Internet of Things Journal;
-  IEEE Journal of Biomedical and Health Informatics;
-  JMIR mHealth and uHealth;
-  Journal of Medical Internet Research;
-  IEEE Sensors Journal;
-  IEEE Journal of Translational Engineering in Health and Medicine;
-  Scientific Reports;
-  JMIR Formative Research;
-  JMIR Research Protocols;
-  Journal of Supercomputing;
-  International Journal of Data Science and Analytics;
+  IEEE Internet of Things Journal;<br>
+  IEEE Journal of Biomedical and Health Informatics;<br>
+  JMIR mHealth and uHealth;<br>
+  Journal of Medical Internet Research;<br>
+  IEEE Sensors Journal;<br>
+  IEEE Journal of Translational Engineering in Health and Medicine;<br>
+  Scientific Reports;<br>
+  JMIR Formative Research;<br>
+  JMIR Research Protocols;<br>
+  Journal of Supercomputing;<br>
+  International Journal of Data Science and Analytics;<br>
   International journal of human-computer interaction
 - **PhD Supervision & Assessment**
   KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
