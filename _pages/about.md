@@ -13,9 +13,9 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
-- **2025.07**: Will give an oral presentation at [IEEE EMBC 2025](https://embc.embs.org/2025) to be held in Copenhagen, Denmark, with the topic *"Skeleton-Based Intake Gesture Detection With Spatial-Temporal Graph Convolutional Networks"*.
+- **2025.08**: Invited as a guest lecturer at the University of Bonn, Germany, for the summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), hosted by hosted by [Prof. Ina Danquah](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/hertz-professur).
+- **2025.07**: Give an oral presentation at [IEEE EMBC 2025](https://embc.embs.org/2025) to be held in Copenhagen, Denmark, with the topic *"Skeleton-Based Intake Gesture Detection With Spatial-Temporal Graph Convolutional Networks"*.
 - **2025.05**: Invited to give a talk at [SPARC Radar Group](https://www.uni.lu/snt-en/research-groups/sparc/) Seminar (hosted by [Prof. Bhavani Shankar](https://scholar.google.lu/citations?user=JXx5O8kAAAAJ&hl=en)), from University of Luxembourg, with the topic *"Sensing Bites: Contactless Food Intake Activity Monitoring with Radar and AI"*.
-- **2025.05**: Invited as a guest lecturer at the University of Bonn, Germany, for the upcoming summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), scheduled for August 2025.
 - **2025.04**: Successfully co-organized the workshop *"Novel Subjective and Objective Methods to Monitor Food Intake"* at the International Conference on Diet and Activity Methods (ICDAM 2025) in Toronto, Canada.
 - **2025.02**: Our paper, *"Eating Speed Measurement Using Wrist-Worn IMU Sensors Towards Free-Living Environments"*, has been awarded **Best Paper Award** in 2023-2024 by IEEE-EMBS (IEEE Engineering in Medicine and Biology Society) Benelux Chapter.
 - **2025.01**: Invited to serve as a referee for the IEEE EMBC 2025, to be held in Copenhagen, Denmark.
@@ -57,10 +57,10 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 - **Conference Reviewer**  
   IEEE BHI 2022,2025; IEEE EMBC 2024,2025
 - **Journal Reviewer**  
-  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; IEEE Sensors Journal; Scientific Reports; Journal of Supercomputing; International Journal of Data Science and Analytics; International journal of human-computer interaction
+  IEEE Internet of Things Journal; IEEE Journal of Biomedical and Health Informatics; JMIR mHealth and uHealth; Journal of Medical Internet Research; IEEE Sensors Journal; IEEE Journal of Translational Engineering in Health and Medicine; Scientific Reports; Journal of Supercomputing; International Journal of Data Science and Analytics; International journal of human-computer interaction
 - **PhD Supervision & Assessment**
   KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
 - **Master Thesis Co-supervisor**  
   KU Leuven: Supervised 13 master students majoring in Electronic Engineering, Electromechanical Engineering, and Artificial Intelligence, with 7 graduating with Cum Laude distinction 
 - **Teaching Assistance**  
-  KU Leuven: Computational Thinking (2020); Statistics and Data Management (2021, 2022, 2023); Machine Learning (2023)
+  KU Leuven: Computational Thinking (2020); Statistics and Data Management (2021, 2022, 2023,2024); Machine Learning (2023,2024)
