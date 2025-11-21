@@ -13,6 +13,8 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2025.11**: We will organzize a symposium on AI approaches to eating behaviors for eating disorders at the 9th Annual Technology in Psychiatry Summit (TIPS 2025) on Dec 11–12, hosted by McLean’s Institute for Technology in Psychiatry from McLean Hospital and Harvard Medical School.
+- **2024.10**: Our paper, titled *"Machine learning for classification of advanced rheumatic heart disease using electrocardiogram in cardiology ward"*, was accepted for publication in *BMC Cardiovascular Disorders*.
 - **2025.08**: Invited as a guest lecturer at the University of Bonn, Germany, for the summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), hosted by [Prof. Ina Danquah](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/hertz-professur).
 - **2025.07**: Give an oral presentation at [IEEE EMBC 2025](https://embc.embs.org/2025) to be held in Copenhagen, Denmark, with the topic *"Skeleton-Based Intake Gesture Detection With Spatial-Temporal Graph Convolutional Networks"*.
 - **2025.05**: Invited to give a talk at [SPARC Radar Group](https://www.uni.lu/snt-en/research-groups/sparc/) Seminar (hosted by [Prof. Bhavani Shankar](https://scholar.google.lu/citations?user=JXx5O8kAAAAJ&hl=en)), from University of Luxembourg, with the topic *"Sensing Bites: Contactless Food Intake Activity Monitoring with Radar and AI"*.
