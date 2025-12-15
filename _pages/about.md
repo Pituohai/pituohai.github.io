@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2025.12**: We will organzize a special session titled "Advanced Time-Series Modeling for Wearable-Based ADL Monitoring in Healthcare" on the *34th European Signal Processing Conference [(EUSIPCO 2026)](https://eusipco2026.org/)*, to be held in Bruge, Belgium.
 - **2025.11**: We will organzize a symposium on AI approaches to eating behaviors for eating disorders at the 9th Annual Technology in Psychiatry Summit (TIPS 2025) on Dec 11–12, hosted by McLean’s Institute for Technology in Psychiatry from McLean Hospital and Harvard Medical School.
 - **2024.10**: Our paper, titled *"Machine learning for classification of advanced rheumatic heart disease using electrocardiogram in cardiology ward"*, was accepted for publication in *BMC Cardiovascular Disorders*.
 - **2025.08**: Invited as a guest lecturer at the University of Bonn, Germany, for the summer school *"Digital Innovation in Nutritional Epidemiology"* [link](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/offers/summer-school-nutritional-epidemiology), hosted by [Prof. Ina Danquah](https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-6-sustainable-futures/hertz-professur).
