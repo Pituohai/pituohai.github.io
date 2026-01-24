@@ -33,6 +33,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 💼Experience
 ======
+- **2026.01 - Current**: PostDoc Visiting Researcher, University of Oxford, UK
 - **2024.09 - Current**: Postdoctoral Researcher Associate, KU Leuven, Belgium
 - **2023.03 - 2023.05**: Visiting Researcher, Wageningen University & Research, The Netherlands
 - **2020.09 - 2024.09**: PhD Researcher, IMEC, Belgium
