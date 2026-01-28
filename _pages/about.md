@@ -43,12 +43,12 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 🎖️Awards & Grants
 ======
 - **IEEE-EMBS Best Paper Award**: Awarded 1st Place Best Paper Award 2023-2024 by IEEE Engineering in Medicine and Biology Society (IEEE-EMBS) Benelux Chapter.
+- **VSC Tier-1 Compute Grant**: Awarded a Tier-1 level high-performance computing grant from the Flanders Supercomputer Center (VSC) with an estimated value of €40,000.
 - **FWO Long-Term Visit Grant**: Awarded a long-term visit grant by the Research Foundation Flanders (FWO) to support an extended research stay abroad.
+- **IEEE IMBioC PhD Student Initiative Awardee**: Awarded by IEEE International Microwave Biomedical Conference (IEEE IMBioC) Committee in 2023.
 - **Global Minds Mobility Grant**: Received a grant from Interfaculty Council for Global Development for the research visiting to Global South.
 - **FWO Conference Travel Grant**: Received a grant from the FWO for attending conference IEEE EMBC 2025.
 - **ICDAM 2025 Travel Bursary Awardee**: Awarded by International Conference on Diet and Activity Methods (ICDAM) Committee in 2025.
-- **VSC Tier-1 Compute Grant**: Awarded a Tier-1 level high-performance computing grant from the Flanders Supercomputer Center (VSC) with an estimated value of €40,000.
-- **IEEE IMBioC PhD Student Initiative Awardee**: Awarded by IEEE International Microwave Biomedical Conference (IEEE IMBioC) Committee in 2023.
 - **FWO Short-Term Visiting Fund**: Received a grant from the FWO for a short study visit, 2023.
 - **KU Leuven Full Scholarship**: Received a full scholarship from KU Leuven from 2017-2020 for Bachelor (2 years) and Master Study (1 year).
   
