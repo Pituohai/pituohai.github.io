@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2026.02**: Our paper, titled *"IMU-based Pelvic Rotation Detection: A Novel Dataset, Benchmark Classifiers, and Sensor Placement Optimization"*, was accepted for publication in *IEEE Journal of Biomedical and Health Informatics*.
 - **2026.01**: I will be a visiting postdoctoral researcher in Li Ka Shing Centre for Health Information and Discovery, Big Data Institute, **University of Oxford**, hosted by [Prof. Aiden Doherty](https://www.bdi.ox.ac.uk/Team/aiden-doherty), funded by FWO long-term visit grant.
 - **2025.12**: We will organzize a special session titled "Advanced Time-Series Modeling for Wearable-Based ADL Monitoring in Healthcare" on the *34th European Signal Processing Conference [(EUSIPCO 2026)](https://eusipco2026.org/)*, to be held in Bruges, Belgium.
 - **2025.11**: We will organzize a symposium on AI approaches to eating behaviors for eating disorders at the 9th Annual Technology in Psychiatry Summit (TIPS 2025) on Dec 11–12, hosted by McLean’s Institute for Technology in Psychiatry from McLean Hospital and Harvard Medical School.
