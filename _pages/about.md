@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2026.02**: Our paper, titled *"Robust Multimodal Learning Framework For Intake Gesture Detection Using Contactless Radar and Wearable IMU Sensors"*, was accepted for publication in *IEEE Journal of Biomedical and Health Informatics*.
 - **2026.02**: Our paper, titled *"AI and IoT for COPD Remote Monitoring: A Systematic Review of ECOPD Prediction Frameworks and Key Monitoring Physiological Variables"*, was accepted for publication in *JMIR Medical Informatics*.
 - **2026.02**: Our paper, titled *"IMU-based Pelvic Rotation Detection: A Novel Dataset, Benchmark Classifiers, and Sensor Placement Optimization"*, was accepted for publication in *IEEE Journal of Biomedical and Health Informatics*.
 - **2026.01**: I will be a visiting postdoctoral researcher in Li Ka Shing Centre for Health Information and Discovery, Big Data Institute, **University of Oxford**, hosted by [Prof. Aiden Doherty](https://www.bdi.ox.ac.uk/Team/aiden-doherty), funded by FWO long-term visit grant.
