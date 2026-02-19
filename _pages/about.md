@@ -65,7 +65,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 📚Academic Services
 ======
 - **Conference Reviewer**  
-  IEEE BHI 2022,2025; IEEE EMBC 2024,2025
+  IEEE BHI 2022,2025; IEEE EMBC 2024,2025,2026
 - **Journal Reviewer**  
   IEEE Internet of Things Journal;<br>
   IEEE Journal of Biomedical and Health Informatics;<br>
@@ -83,7 +83,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
   International Journal of Data Science and Analytics;<br>
   International journal of human-computer interaction
 - **PhD Supervision & Assessment**
-  KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another.
+  KU Leuven: Currently co-supervising one PhD student and serving as an assessor for another two PhDs.
 - **Master Thesis Co-supervisor**  
   KU Leuven: Supervised 13 master students majoring in Electronic Engineering, Electromechanical Engineering, and Artificial Intelligence, with 7 graduating with Cum Laude distinction 
 - **Teaching Assistance**  
