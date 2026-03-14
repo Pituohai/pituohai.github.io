@@ -66,7 +66,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 📚Academic Services
 ======
 - **Conference Reviewer**  
-  IEEE BHI 2022,2025; IEEE EMBC 2024,2025,2026
+  IEEE BHI 2022,2025; IEEE EMBC 2024,2025,2026; IEEE ICIP 2026
 - **Journal Reviewer**  
   IEEE Internet of Things Journal;<br>
   IEEE Journal of Biomedical and Health Informatics;<br>
