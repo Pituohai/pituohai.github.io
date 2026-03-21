@@ -72,6 +72,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
   IEEE Journal of Biomedical and Health Informatics;<br>
   JMIR mHealth and uHealth;<br>
   Journal of Medical Internet Research;<br>
+  IEEE Transactions on Neural Systems and Rehabilitation Engineering;<br>
   Scientific Data;<br>
   IEEE Sensors Journal;<br>
   IEEE Journal of Translational Engineering in Health and Medicine;<br>
