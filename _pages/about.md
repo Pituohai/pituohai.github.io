@@ -13,6 +13,7 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 🔥News
 ======
+- **2026.07**: Our paper, titled *"AI Based Detection and Prediction of Eating Events Using Continuous Glucose Monitoring: A Comprehensive Review"*, was accepted for publication in *Biomedical Signal Processing and Control*.
 - **2026.07**: Our KU Leuven C2M research project titled *"EATANS: Enhanced Automated Tracking System for Eating Activities in Anorexia Nervosa"* was granted (€409K, co-promotor and lead proposal writer).
 - **2026.02**: Our paper, titled *"Prevalence of Early Rheumatic Heart Disease among Asymptomatic Schoolchildren in underserved communities in Ethiopia: Cross-sectional Observational Study"*, was accepted for publication in *JMIR Public Health and Surveillance*.
 - **2026.02**: Our paper, titled *"Robust Multimodal Learning Framework For Intake Gesture Detection Using Contactless Radar and Wearable IMU Sensors"*, was accepted for publication in *IEEE Journal of Biomedical and Health Informatics*.
