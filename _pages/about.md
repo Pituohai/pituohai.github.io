@@ -7,12 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven, working with my PhD supervisor [Prof. Bart Vanrumste](https://www.kuleuven.be/wieiswie/en/person/00045098). I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
+I am currently a Research Associate at the Adaptive Brain Lab in University of Cambridge, working with Prof. Zoe Kourtzi. Previously I worked at the [eMedia Research Lab](https://iiw.kuleuven.be/onderzoek/emedia), ESAT-STADIUS, KU Leuven, where I completed my PhD under the supervision of [Prof. Bart Vanrumste](https://www.kuleuven.be/wieiswie/en/person/00045098). I received my PhD in September 2024 from ESAT, KU Leuven, in collaboration with the Life Science Department at [IMEC](https://www.imec-int.com/en). Prior to that, I earned my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
-My research interests include AI for Health (AI4Health), Automated Food Intake Activity Monitoring, Sensor Fusion, Time Series Data Processing, and FMCW Radar. 
+My research interests include AI for Neuroscience, digital health, biomedical time series modeling, multimodal learning, and IoT. 
+
+📢 Vacancy
+======
+- **2026.09**: We are hiring! A fully funded PhD position is available at KU Leuven eMedia Research Lab on AI, wearable sensors, and digital biomarkers for anorexia nervosa: [View the vacancy](https://www.kuleuven.be/personeel/jobsite/jobs/60706508) *(Ref. BAP-2026-436)*
+
+
 
 🔥News
 ======
+- **2026.09**: I joined the Adaptive Brain Lab, University of Cambridge.
 - **2026.07**: Our paper, titled *"AI Based Detection and Prediction of Eating Events Using Continuous Glucose Monitoring: A Comprehensive Review"*, was accepted for publication in *Biomedical Signal Processing and Control*.
 - **2026.07**: Our KU Leuven C2M research project titled *"EATANS: Enhanced Automated Tracking System for Eating Activities in Anorexia Nervosa"* was granted (€409K, co-promotor and lead proposal writer).
 - **2026.02**: Our paper, titled *"Prevalence of Early Rheumatic Heart Disease among Asymptomatic Schoolchildren in underserved communities in Ethiopia: Cross-sectional Observational Study"*, was accepted for publication in *JMIR Public Health and Surveillance*.
@@ -39,8 +46,9 @@ My research interests include AI for Health (AI4Health), Automated Food Intake A
 
 💼Experience
 ======
-- **2026.01 - Current**: PostDoc Visiting Researcher, University of Oxford, UK
-- **2024.09 - Current**: Postdoctoral Researcher Associate, KU Leuven, Belgium
+- **2026.09 - Current**: Research Associate, University of Cambridge, UK
+- **2026.01 - 2026.04**: Postdoc Visiting Researcher, University of Oxford, UK
+- **2024.09 - 2026.09**: Research Associate, KU Leuven, Belgium
 - **2023.03 - 2023.05**: Visiting Researcher, Wageningen University & Research, The Netherlands
 - **2020.09 - 2024.09**: PhD Researcher, IMEC, Belgium
 - **2019.10 - 2020.09**: Master Thesis Intern, Neuro-Electronics Research Flanders (NERF), Belgium
