@@ -11,11 +11,10 @@ I am currently a Research Associate at the Adaptive Brain Lab in University of C
 
 My research interests include AI for Neuroscience, digital health, biomedical time series modeling, multimodal learning, and IoT. 
 
+
 📢 Vacancy
 ======
-- **2026.09**: We are hiring! A fully funded PhD position is available at KU Leuven eMedia Research Lab on AI, wearable sensors, and digital biomarkers for anorexia nervosa: [View the vacancy](https://www.kuleuven.be/personeel/jobsite/jobs/60706508) *(Ref. BAP-2026-436)*
-
-
+- ~~**2026.09**: We are hiring! A fully funded PhD position is available at KU Leuven eMedia Research Lab on AI, wearable sensors, and digital biomarkers for anorexia nervosa: [View the vacancy](https://www.kuleuven.be/personeel/jobsite/jobs/60706508) *(Ref. BAP-2026-436)*~~ **(Closed)**
 
 🔥News
 ======
