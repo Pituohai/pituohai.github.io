@@ -18,6 +18,7 @@ My research interests include AI for Neuroscience, digital health, biomedical ti
 
 🔥News
 ======
+- **2026.10**: Invited to give a talk at [Human Understanding & Behavior Lab (HUB Lab)]([https://www.uni.lu/snt-en/research-groups/sparc/](https://hub-lab-1np.pages.dev/)) Seminar (hosted by Prof. Po-Kai Yang), from National Yang Ming Chiao Tung University (NYCU).
 - **2026.09**: I joined the Adaptive Brain Lab, University of Cambridge.
 - **2026.07**: Our paper, titled *"AI Based Detection and Prediction of Eating Events Using Continuous Glucose Monitoring: A Comprehensive Review"*, was accepted for publication in *Biomedical Signal Processing and Control*.
 - **2026.07**: Our KU Leuven C2M research project titled *"EATANS: Enhanced Automated Tracking System for Eating Activities in Anorexia Nervosa"* was granted (€409K, co-promotor and lead proposal writer).
